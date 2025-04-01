@@ -1,0 +1,30 @@
+# Byte-compiled / cache / virtualenv
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.egg-info/
+*.egg
+*.log
+
+# Distribuição
+dist/
+build/
+*.tar.gz
+*.whl
+
+# Configs locais
+.env
+.orion.env
+*.sqlite3
+*.db
+
+# VSCode
+.vscode/
+.settings/
+
+# macOS / Linux / Windows
+.DS_Store
+Thumbs.db
