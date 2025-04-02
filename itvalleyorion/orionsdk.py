@@ -45,6 +45,8 @@ class Orion:
         self.audio = TranscriptionAudioService(self.api_key, self.base_url)
         self.tts = TextToSpeechService(self.api_key, self.base_url)
 
+        
+
 
 # Exemplo de uso
 if __name__ == "__main__":
