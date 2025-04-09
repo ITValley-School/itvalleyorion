@@ -5,7 +5,7 @@ from services.transcriptionaudio import TranscriptionAudioService
 from services.texttospeech import TextToSpeechService
 
 
-class Orion:
+class OrionServices:
     """
     SDK unificado para acessar os serviços de IA do Orion.
     
